@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+body
+{
+    /* background-image: url(img/fondo1.jpg); */
+    /* background-repeat: no-repeat; */
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(img/nikita-turkovich-MDw0m3Ulot8-unsplash.jpg);
+}
+
+
+
+#div2
+{
+    width: 80%;
+    margin: 0 auto;
+    padding: 60px;
+    /* border-style: solid;
+    border-width: thin; */
+    /* border: 1px solid #d2eb98; */
+    text-align: center;
+    border-radius: 30%;
+    grid-template-columns: 50% auto;
+}
+
+#div3
+{
+    background-color: rgb(228, 29, 29);
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px ;
+    text-align: center;
+    background-image: linear-gradient( rgb(241, 238, 229), rgb(241, 238, 229));
+    box-shadow: 0 0 20px rgb(0, 0, 0, 0.5);
+}
+
+.lgris
+{
+    color: rgb(10, 10, 10);
+}
+
+.btn1
+{
+    background-color: rgb(113, 212, 113);
+    color: rgb(233, 83, 83);
+    font-size: 15px;
+    font-weight: bold;
+    width: 40%;
+}
+
+#divconsulta
+{
+    width: 80%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+    background-color: rgb(255, 254, 254);
+    text-align: center;
+}
+
+#divconsulta2
+{
+    background-color: rgb(240, 243, 241);
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px solid #21d16a;
+    text-align: center;
+    background-image: linear-gradient( rgb(235, 221, 143), rgb(245, 245, 239));
+}
+ .h1{
+     justify-content: center;
+     box-shadow: 0 0 20px rgb(0, 0, 0, 0.5);
+ }
